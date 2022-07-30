@@ -3,9 +3,9 @@
 <h3 align="center">A passionate web developer from India</h3>
 <br>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently learning **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **React**
+- 🌱 Recently I completed my Web Deveploment Project on **Streamo(Netflix Clone)**
 
 - 📫 Reach out to me at **ayush20501.ag@gmail.com**
 
