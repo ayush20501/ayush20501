@@ -3,13 +3,13 @@
 <h3 align="center">A passionate web developer from India</h3>
 <br>
 
-- 🔭 I’m currently learning **Data Structures and Algorithms**
+- 🔭 I’m a **NFreelance Web Developer**
 
 - 🌱 Recently I completed my Web Deveploment Project on **Streamo(Netflix Clone)**
 
 - 📫 Reach out to me at **ayush20501.ag@gmail.com**
 
-- 💻 **My primary coding and problem solving language: C++**
+- 💻 **Talks about Django | Flask | HTML5/CSS3/JavaScript | Reactjs | C++/Python | Pythonanywhere/Netlify/Vercel*
 
 <br>
 
