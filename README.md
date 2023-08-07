@@ -3,13 +3,13 @@
 <h3 align="center">A passionate web developer from India</h3>
 <br>
 
-- 🔭 I’m a **NFreelance Web Developer**
+- 🔭 I’m a **Freelance Web Developer**
 
 - 🌱 Recently I completed my Web Deveploment Project on **Streamo(Netflix Clone)**
 
 - 📫 Reach out to me at **ayush20501.ag@gmail.com**
 
-- 💻 **Talks about Django | Flask | HTML5/CSS3/JavaScript | Reactjs | C++/Python | Pythonanywhere/Netlify/Vercel*
+- 💻 **Talks about Django | Flask | HTML5/CSS3/JavaScript | Reactjs | C++/Python | Pythonanywhere/Netlify/Vercel**
 
 <br>
 
@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-3bb02a1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-gupta-3bb02a1a2/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ayushh__guptaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayushh__guptaa/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ayushh__guptaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushh__guptaa/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/guptaayushh/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/guptaayushh/profile" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/https://leetcode.com/ayushh__guptaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushh__guptaa/" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/guptaayushh/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/guptaayushh/profile" height="30" width="40" /></a> -->
 </p>
 
 
