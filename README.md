@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Ayush Gupta</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 ![MasterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 
 <br>
 
-- 🔭 I’m a **Freelance Web Developer**
-
-- 🌱 Recently I completed my Web Deveploment Project on **Streamo(Netflix Clone)**
+- 🔭 I’m a **Freelance Backend Developer**
 
 - 📫 Reach out to me at **ayush20501.ag@gmail.com**
 
-- 💻 **Talks about Django | Flask | HTML5/CSS3/JavaScript | Reactjs | C++/Python | Pythonanywhere/Netlify/Vercel**
+- 💻 **Talks about Python | Django | Flask | HTML5/CSS3/JavaScript | FastAPI | RestAPI | Pythonanywhere/Heroku/Vercel**
 
 <br>
 
