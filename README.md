@@ -1,6 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
 <h1 align="center">Hi, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate web developer from India</h3>
+
+![MasterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+
 <br>
 
 - 🔭 I’m a **Freelance Web Developer**
