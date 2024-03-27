@@ -13,11 +13,11 @@
 
 <br>
 
-<h3 align="left">⚡ Technologies</h3>
+<h1 align="left">⚡ Technologies</h1>
 <p align="left"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a><a href="#" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://5.imimg.com/data5/HT/HX/YO/GLADMIN-13634783/selection-208-500x500.png" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="#" target="_blank" rel="noreferrer"> <img src="https://etrainindia.com/wp-content/uploads/2022/03/restApi580.png" alt="restapi" width="40" height="40"/> </a><a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a></p>
 
-<h3 align="left">Let's connect and build amazing things together!</h3>
+<h1 align="left">Let's connect and build amazing things together!</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta-3bb02a1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-gupta-3bb02a1a2/" height="30" width="40" /></a>
 
