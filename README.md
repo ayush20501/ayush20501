@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-![MasterHead](https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FManojkumarDataAnalyst&psig=AOvVaw0pLbnN5K4rXZeZR2T_5aqh&ust=1733812587726000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCFgbCJmooDFQAAAAAdAAAAABAs)
 
 <br>
 
