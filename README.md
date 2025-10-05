@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Ayush Gupta</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-![MasterHead](https://camo.githubusercontent.com/c0072e95a32bd15902ac9c47ac1e878b097a259ffdd65dcd2ca8d8c83a3b6276/68747470733a2f2f63636e79696e632e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f31322f64617461656e67696e656572657865726369736562616c6c2d312e676966)
-
 <br>
 
-- 🔭 I’m a **Freelance Backend Developer**
+- 🔭 I’m a **Backend Developer/Freelancer**
 
 - 📫 Reach out to me at **ayush20501.ag@gmail.com**
 
