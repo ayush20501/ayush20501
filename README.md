@@ -5,8 +5,6 @@
 
 - 🔭 I’m a **Backend Developer/Freelancer**
 
-- 📫 Reach out to me at **ayush20501.ag@gmail.com**
-
 - 💻 **Talks about Python | Django | Flask | HTML5/CSS3/JavaScript | NodeJs | RestAPI | Pythonanywhere/Heroku/Vercel**
 
 <br>
