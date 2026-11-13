@@ -1,46 +1,45 @@
-<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">A passionate Backend Developer from India 🇮🇳</h3>
+# Hi, I'm Ayush Gupta 👋
 
-<br>
+**AI Engineer & Python Backend Developer** based in Noida, India.
 
-- 🔭 I’m a **Backend Developer / Freelancer**
-- 💻 I work with **Python | Django | Flask | Node.js | REST APIs**
-- 🚀 Deployment: **PythonAnywhere | Heroku | Vercel**
+I build production LLM applications, AI agents and REST APIs with Python, FastAPI, Django, LangGraph and Azure OpenAI.
 
-<br>
+## 🚀 What I work on
 
-<h2>⚡ Technologies & Tools</h2>
+- **AI agents** with LangGraph and LangChain that call tools and APIs and handle multi-step tasks
+- **RAG systems** over documents and knowledge bases using Qdrant and ChromaDB
+- **Text-to-SQL agents** that turn plain-English questions into live database reports (charts, PDF, Excel)
+- **Backend APIs** with FastAPI and Django REST Framework, JWT/OAuth auth and PostgreSQL/MongoDB
+- **Cloud & DevOps** with Azure Functions, Azure Batch, Docker and Azure DevOps CI/CD
 
-<h4>Backend</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</p>
+## 📈 Highlights
 
-<h4>Frontend</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
+- Built an enterprise agentic chatbot with RAG and a Text-to-SQL agent, cutting manual effort by **50%**
+- Automated AI content generation for an EdTech platform, making curriculum creation **60%** faster
+- Moved slow synchronous jobs to event-driven Azure Functions, cutting execution time by **40%**
+- Built backend APIs for a multi-clinic healthcare app used by **100+** users
 
-<h4>Database</h4>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack
 
-<h4>APIs & Tools</h4>
-<p>
-  <img src="https://img.icons8.com/ios/50/api.png" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</p>
+**AI / LLM:** LangGraph, LangChain, RAG, Azure OpenAI, OpenAI, Prompt Engineering, MCP, Langflow, Qdrant, ChromaDB
 
-<h4>Deployment</h4>
-<p>
-  <img src="https://img.icons8.com/color/48/cloud.png" width="40" height="40"/>
-</p>
+**Backend:** Python, FastAPI, Django, Django REST Framework, REST APIs, Microservices
 
-<br>
+**Databases:** PostgreSQL, MongoDB
+
+**Cloud & DevOps:** Azure Functions, Azure Batch, Azure Blob Storage, Docker, Azure DevOps CI/CD
+
+## 🌐 Projects
+
+- **[CopyPasteOnline](https://copy-anywhere.vercel.app)** - share clipboard text and files across devices instantly
+- **AI eBay listing generator** - turns product photos into ready-to-publish listings with AI
+- **AI wine & beer pairing assistant** - LLM-powered pairing recommendations
+- **E-commerce platform** - checkout, PDF invoices, location-based tax and multi-language support
+
+## 🎓 Certifications
+
+Building with the Claude API · Introduction to Model Context Protocol · Introduction to Agent Skills · Claude Code in Action
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ayushhguptaa/) · [Portfolio](https://copy-anywhere.vercel.app)
