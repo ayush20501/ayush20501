@@ -29,17 +29,10 @@ I build production LLM applications, AI agents and REST APIs with Python, FastAP
 
 **Cloud & DevOps:** Azure Functions, Azure Batch, Azure Blob Storage, Docker, Azure DevOps CI/CD
 
-## 🌐 Projects
-
-- **[CopyPasteOnline](https://copy-anywhere.vercel.app)** - share clipboard text and files across devices instantly
-- **AI eBay listing generator** - turns product photos into ready-to-publish listings with AI
-- **AI wine & beer pairing assistant** - LLM-powered pairing recommendations
-- **E-commerce platform** - checkout, PDF invoices, location-based tax and multi-language support
-
 ## 🎓 Certifications
 
 Building with the Claude API · Introduction to Model Context Protocol · Introduction to Agent Skills · Claude Code in Action
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/ayushhguptaa/) · [Portfolio](https://copy-anywhere.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/ayushhguptaa/)
